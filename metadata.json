@@ -1,0 +1,6 @@
+{
+  "name": "Prosthetics Hero",
+  "description": "A minimal, responsive single-file hero page for smart prosthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
